@@ -1,0 +1,3 @@
+package no.nav.maksdato
+
+class PeriodeDTO(var ident: Long, var tknr: String?, var seq: Int?, var sykemeldtFom: Int?, var sykemeldtTom: Int?, var grad: String?, var slutt: Int?, var erArbeidsgiverPeriode: String?, var ferie1Fom: Int?, var ferie1Tom: Int?, var ferie2Fom: Int?, var ferie2Tom: Int?, var stansAarsak: String?, var unntakAktivitet: String?, var arbeidsKategori: String?, var arbeidsKategori99: String?, var sanksjonFom: Int?, var sanksjonTom: Int?, var erSanksjonBekreftet: String?, var sanksjonsDager: Int?, var opphoerFom: Int?, var sykemelder: String?, var behandlet: Int?, var yrkesskadeArt: String?, var skadet: Int?, var vedtatt: Int?)
